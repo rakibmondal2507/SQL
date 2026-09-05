@@ -4,4 +4,4 @@ DELETE FROM customers
 WHERE id>5
 
 
-**CAUTION** : 
+--CAUTION: if WHERE is not using , all customers data will be deleted.
